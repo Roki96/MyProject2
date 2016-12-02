@@ -1,0 +1,14 @@
+D:\ПЗ\MyProject\MyProject\bin\Debug\MyProject.exe.config
+D:\ПЗ\MyProject\MyProject\bin\Debug\MyProject.exe
+D:\ПЗ\MyProject\MyProject\bin\Debug\MyProject.pdb
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+D:\ПЗ\MyProject\MyProject\obj\Debug\MainWindow.g.cs
+D:\ПЗ\MyProject\MyProject\obj\Debug\App.g.cs
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject_MarkupCompile.cache
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject_MarkupCompile.lref
+D:\ПЗ\MyProject\MyProject\obj\Debug\MainWindow.baml
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.g.resources
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.exe
+D:\ПЗ\MyProject\MyProject\obj\Debug\MyProject.pdb
